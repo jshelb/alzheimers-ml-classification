@@ -37,7 +37,15 @@ data (Not inside this repository)
 * Extract all files into a sibling directory from this repository called data
 
 # Current Plan for Development
-TODO: Fill this in
+
+### Project Checkpoint
+
+* Ensure that all images are of standard size
+* Determine the size of images
+* If non-standard, we need to convert into a standard size
+* Experiment with training times/accuracy for various training sizes using a simple dataset
+* Experiment differences between OriginalDataset and AugmentedAlzheimerDataset
+* Find average values for each directory containing images
 
 
 
