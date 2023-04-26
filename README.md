@@ -12,6 +12,7 @@ Alzheimers-Classification (this repository)
 |   +-- Images_For_Checkpoint
 |   |   +-- table_queries
 +-- model
+...
 
 data (Not inside this repository)
 +-- AugmentedAlzheimerDataset
@@ -24,6 +25,8 @@ data (Not inside this repository)
 |   +-- ModerateDemented
 |   +-- NonDemented
 |   +-- VeryMildDemented
+
+pickles (Also not inside this repository)
 ```
 
 # Important Notes
@@ -36,16 +39,15 @@ data (Not inside this repository)
 * Download the dataset. It should be in a zip file called archive.zip
 * Extract all files into a sibling directory from this repository called data
 
-# Current Plan for Development
+# Models
+All ML models and analysis can be found under the `models` directory
 
-### Project Checkpoint
+Each model used has a sub-directory within `models` where this analysis is conducted
 
-* Ensure that all images are of standard size
-* Determine the size of images
-* If non-standard, we need to convert into a standard size
-* Experiment with training times/accuracy for various training sizes using a simple dataset
-* Experiment differences between OriginalDataset and AugmentedAlzheimerDataset
-* Find average values for each directory containing images
+It is important to note that all files are Notebooks, and are intended to hold results (and, therefore, not necessarily intended to be re-run)
 
+# Data Exploration
+All data exploration is conducted under the `data-exploration` directory
 
+Here, we explore our dataset and reach key conclusions that will be used when creating our ML models
 
