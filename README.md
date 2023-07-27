@@ -1,5 +1,5 @@
 # Alzheimers-Classification
-CS 4262: Machine Learning - Final Project
+Machine Learning - Final Project [S2023]
 
 Josh Scherer, Jackson Shelby, Michelle Wang, Alex Zhang
 
