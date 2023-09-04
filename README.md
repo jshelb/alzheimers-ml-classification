@@ -1,7 +1,15 @@
 # Alzheimers-Classification
 Machine Learning - Final Project [S2023]
 
-Josh Scherer, Jackson Shelby, Michelle Wang, Alex Zhang
+Contributions from:
+
+Jackson Shelby 
+
+Josh Scherer
+
+Michelle Wang
+
+Alex Zhang
 
 # File Structure
 
